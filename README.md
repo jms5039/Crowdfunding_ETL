@@ -4,23 +4,23 @@
 This project involves a collaborative effort to build an ETL pipeline focusing on crowdfunding data. Utilizing Python, Pandas, and SQL, we aim to extract data from provided Excel files, transform it according to specified requirements, and load it into a Postgres database. This README outlines the project structure, setup instructions, and the team's approach to tackling the tasks.
 
 ### Team Members
-- Member 1
-- Member 2
+- Jacqueline Schuler
+- Hilari Waters
 
 ## Repository Structure
-Crowdfunding_ETL/
-│
-├── ETL_Mini_Project_[Initials].ipynb - Main project notebook.
-├── Resources/ - Contains source Excel files.
-│ ├── crowdfunding.xlsx
-│ └── contacts.xlsx
-├── csv_files/ - Exported CSV files.
-│ ├── category.csv
-│ ├── subcategory.csv
-│ ├── campaign.csv
-│ └── contacts.csv
-└── sql/
-└── crowdfunding_db_schema.sql - SQL schema for database creation.
+Crowdfunding_ETL/  
+│  
+├── ETL_Mini_Project_[Initials].ipynb - Main project notebook.  
+├── Resources/ - Contains source Excel files.  
+│ ├── crowdfunding.xlsx  
+│ └── contacts.xlsx  
+├── csv_files/ - Exported CSV files.  
+│ ├── category.csv  
+│ ├── subcategory.csv  
+│ ├── campaign.csv  
+│ └── contacts.csv  
+└── sql/  
+└── crowdfunding_db_schema.sql - SQL schema for database creation.  
 
 ## Setup Instructions
 
