@@ -62,7 +62,7 @@ Crowdfunding_ETL/
 
 ## Collaboration Tools
 - GitHub for version control 🔄
-- Slack or Discord for team communication 💬
+- Slack for team communication 💬
 
 ## Hints and Tips
 
