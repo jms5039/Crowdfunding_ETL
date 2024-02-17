@@ -11,18 +11,16 @@ This project involves a collaborative effort to build an ETL pipeline focusing o
 
 Crowdfunding_ETL/  
 │  
-├── ETL_Mini_Project_[Initials].ipynb - Main project notebook. 📓  
+├── ETL_Mini_Project_JSchuler_HWaters.ipynb - Main project notebook. 📓  
 ├── Resources/ - Contains source Excel files. 📁  
 │ ├── crowdfunding.xlsx  
 │ └── contacts.xlsx  
-├── csv_files/ - Exported CSV files. 📂  
 │ ├── category.csv  
 │ ├── subcategory.csv  
 │ ├── campaign.csv  
 │ └── contacts.csv  
-└── sql/  
-└── crowdfunding_db_schema.sql - SQL schema for database creation. 🗄  
-
+└── crowdfunding_db.sql - SQL schema for database creation. 🗄  
+└── crowdfunding_db.sql.png - ERD Diagram. 
 
 ## Setup Instructions
 
